@@ -1,2 +1,2 @@
-# discord-bot-template
+# python-discord-bot-template
  
